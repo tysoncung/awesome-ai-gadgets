@@ -29,6 +29,7 @@
 - **[Humane AI Pin](https://humane.com/)** - $699 - Wearable AI assistant with laser projection display
 - **[Friend](https://friend.com/)** - $99 - Wearable AI companion focused on emotional support
 - **[Rewind Pendant](https://www.rewind.ai/pendant)** - $59 - AI pendant that records and transcribes conversations
+- **[Plaud NotePin](https://www.plaud.ai/)** - $169 - AI-powered wearable voice recorder with automatic transcription and summarization
 
 ### Smart Glasses & Wearables
 
@@ -119,7 +120,7 @@
 - Perfect for: Streamers, vloggers, and social media creators
 
 ### Mobile AI Professional (~$800)
-- **Ray-Ban Meta Smart Glasses** ($299) + **Pocketalk Plus** ($299) + **Rewind Pendant** ($59) = $657
+- **Ray-Ban Meta Smart Glasses** ($299) + **Pocketalk Plus** ($299) + **Plaud NotePin** ($169) = $767
 - Perfect for: Business travelers, journalists, international professionals
 
 ### Developer Powerhouse (~$1,000)
