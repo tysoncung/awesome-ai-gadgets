@@ -2,6 +2,15 @@
 
 > A curated list of AI-powered gadgets, devices, and hardware for consumers, developers, and makers.
 
+## What's New (CES 2026)
+
+- **SwitchBot AI MindClip** - 18g wearable that records and creates searchable memory database
+- **Razer Project Motoko** - AI headset designed for always-on assistance
+- **Lenovo Project Maxwell** - "Personal AI twin" concept device
+- **MemoMind Memo One** - Smart glasses with real-time translation and teleprompter
+- **XREAL 1S** - 1200p resolution AR glasses at $449
+- **Luna Band** - Screen-free AI health companion with voice interaction
+
 ## Contents
 
 - [Consumer AI Devices](#consumer-ai-devices)
@@ -9,6 +18,7 @@
   - [Smart Glasses & Wearables](#smart-glasses--wearables)
   - [Translation Devices](#translation-devices)
   - [AI Cameras](#ai-cameras)
+  - [AI Health Wearables](#ai-health-wearables)
 - [Developer Hardware](#developer-hardware)
   - [AI Development Boards](#ai-development-boards)
   - [Edge AI Accelerators](#edge-ai-accelerators)
@@ -25,14 +35,20 @@
 
 ### AI Assistants & Companions
 
+- **[SwitchBot AI MindClip](https://www.switch-bot.com/)** - TBA - 18g clip-on device that records conversations, creates summaries and searchable memory (CES 2026)
+- **[Lenovo Project Maxwell](https://www.lenovo.com/)** - TBA - "Personal AI twin" that records everything around you (CES 2026)
 - **[Rabbit R1](https://www.rabbit.tech/)** - $199 - Pocket AI companion with natural language interface and camera
 - **[Humane AI Pin](https://humane.com/)** - $699 - Wearable AI assistant with laser projection display
 - **[Friend](https://friend.com/)** - $99 - Wearable AI companion focused on emotional support
 - **[Rewind Pendant](https://www.rewind.ai/pendant)** - $59 - AI pendant that records and transcribes conversations
 - **[Plaud NotePin](https://www.plaud.ai/)** - $169 - AI-powered wearable voice recorder with automatic transcription and summarization
+- **[Pebble Index O1](https://www.pebble.ai/)** - TBA - Smart ring for notes, calendar, and transcription (CES 2026)
 
 ### Smart Glasses & Wearables
 
+- **[XREAL 1S](https://www.xreal.com/)** - $449 - 1200p resolution, 700 nits brightness AR glasses (CES 2026)
+- **[Razer Project Motoko](https://www.razer.com/)** - TBA - AI headset for always-on assistance (CES 2026)
+- **[MemoMind Memo One](https://www.xgimi.com/)** - TBA - Smart glasses with real-time translation and teleprompter (CES 2026)
 - **[Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)** - $299+ - Smart glasses with AI assistant, camera, and speakers
 - **[XREAL Air 2](https://www.xreal.com/)** - $399 - AR glasses with AI-powered spatial computing
 - **[Frame by Brilliant Labs](https://brilliant.xyz/)** - $349 - Open-source AI glasses with multimodal AI
@@ -47,10 +63,19 @@
 
 ### AI Cameras
 
+- **[Amazfit V1tal Food Camera](https://www.amazfit.com/)** - TBA - AI nutrition tracking from food photos (CES 2026)
 - **[Obsbot Tail Air](https://www.obsbot.com/)** - $179 - AI-powered streaming camera with auto-tracking
 - **[Insta360 X3](https://www.insta360.com/)** - $449 - 360° camera with AI editing features
 - **[DJI Pocket 2](https://www.dji.com/)** - $349 - Handheld gimbal camera with AI tracking
 - **[Pixie Smart Camera](https://getpixie.ai/)** - $99 - AI camera for automated content creation
+
+### AI Health Wearables
+
+- **[Luna Band](https://www.lunaband.ai/)** - TBA - Screen-free AI health companion with voice interaction (CES 2026)
+- **[Withings Body Scan 2](https://www.withings.com/)** - TBA - Smart scale tracking cardiovascular, metabolic, and nerve health (CES 2026)
+- **[Smart Hip Guardian](https://www.smarthipguardian.com/)** - TBA - Fall protection with instant airbag deployment (CES 2026)
+- **[Oura Ring Gen 4](https://ouraring.com/)** - $349+ - AI-powered health and sleep tracking ring
+- **[Whoop 4.0](https://www.whoop.com/)** - $30/mo - AI fitness and recovery wearable
 
 ## Developer Hardware
 
