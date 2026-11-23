@@ -162,6 +162,7 @@
 
 ## Resources
 
+- [AIHardwareDB](https://aihardwaredb.com/) - Open specification and 24-month ownership cost database (hardware + subscriptions) for consumer AI wearables, with CC BY 4.0 CSV/JSON data
 - [Edge Impulse](https://www.edgeimpulse.com/) - Platform for developing AI for edge devices
 - [TensorFlow Lite](https://www.tensorflow.org/lite) - Framework for on-device inference
 - [OpenCV](https://opencv.org/) - Computer vision library
